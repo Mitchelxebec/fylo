@@ -10,7 +10,7 @@ body{
 
 .back_image img{
     position: relative;
-    top: 43vh;
+    top: 25pc;
     width: 100%;
     height: 365px;
     filter: blur(1.1px);
